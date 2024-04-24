@@ -1,5 +1,5 @@
 
-<img src="./header.svg" />
+<img style="center" src="./header.svg" />
 ### Hi there 👋
 
 I'm Andrew Wilson, a Full Stack Software Engineer with a passion for crafting digital experiences that leave a lasting impression. I embarked on my coding journey after graduating from Flatiron's bootcamp in March 2023, eager to explore the endless possibilities of technology. Before transitioning to software engineering, I worked in customer-oriented roles in the food industry, where I developed excellent communication and problem-solving skills. Additionally, I've held team-oriented positions in the trade industry, which taught me the importance of collaboration and teamwork in achieving common goals.
