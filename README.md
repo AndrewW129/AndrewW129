@@ -1,4 +1,4 @@
-https://github.com/AndrewW129/AndrewW129/assets/145155781/112c893a-ba38-49b5-9ca0-ab429ff23558
+
 <img src="./header.svg" />
 ### Hi there 👋
 
