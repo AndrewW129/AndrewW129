@@ -1,9 +1,5 @@
 https://github.com/AndrewW129/AndrewW129/assets/145155781/112c893a-ba38-49b5-9ca0-ab429ff23558
-import header.svg as header
 
-<div>
-  header
-</div>
 ### Hi there 👋
 
 I'm Andrew Wilson, a Full Stack Software Engineer with a passion for crafting digital experiences that leave a lasting impression. I embarked on my coding journey after graduating from Flatiron's bootcamp in March 2023, eager to explore the endless possibilities of technology. Before transitioning to software engineering, I worked in customer-oriented roles in the food industry, where I developed excellent communication and problem-solving skills. Additionally, I've held team-oriented positions in the trade industry, which taught me the importance of collaboration and teamwork in achieving common goals.
