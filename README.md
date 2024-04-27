@@ -8,25 +8,14 @@ Hello World! 👋
 
  🤔 As I continue to grow as a software engineer, my goal is to contribute to projects that push the boundaries of AI and technology. I'm excited about the prospect of working with like-minded individuals who share my passion for innovation and creativity. Whether it's building intuitive user interfaces or developing cutting-edge AI algorithms, I'm committed to making a positive impact through my work. 🤔
 
+- 🔭 I’m currently working on wilson properties project!
+- 🌱 I’m currently learning AWS and DLAI.
+- 📫 Ask me about my capstone project RecipEz!
+
 I'm open to collaboration and always eager to connect with fellow enthusiasts and professionals in the field. If you're working on an exciting project or have ideas for potential collaborations, feel free to reach out. Let's embark on this journey of innovation together!
 
-- 🔭 I’m currently working on wilson properties
-- 🌱 I’m currently learning AWS and DLAI
-- 
+
+  
 <!--
 **AndrewW129/AndrewW129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
