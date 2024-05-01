@@ -1,4 +1,4 @@
-<img class="image" src="./header.svg" />
+
 
 Hello World! 👋
 
