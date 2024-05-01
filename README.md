@@ -8,7 +8,7 @@ Hello World! 👋
 
  🤔 As I continue to grow as a software engineer, my goal is to contribute to projects that push the boundaries of AI and technology. I'm excited about the prospect of working with like-minded individuals who share my passion for innovation and creativity. Whether it's building intuitive user interfaces or developing cutting-edge AI algorithms, I'm committed to making a positive impact through my work. 🤔
 
-- 🔭 I’m currently working on Wilson Properties and RecipEz
+- 🔭 I’m currently working on my website and RecipEz
 - 🌱 I’m currently learning TypeScript and DeepLearning.AI
 - 📫 Ask me about my capstone project RecipEz!
 
