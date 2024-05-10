@@ -10,7 +10,7 @@ Hello! 👋
  🤔 As I continue to grow as a software engineer, my goal is to contribute to projects that push the boundaries of AI and technology. I'm excited about the prospect of working with like-minded individuals who share my passion for innovation and creativity. Whether it's building intuitive user interfaces or developing cutting-edge AI algorithms, I'm committed to making a positive impact through my work. 🤔
 
 - 🔭 I’m currently working on Random Riddler
-- 🌱 I’m currently learning DeepLearning.AI
+- 🌱 I’m currently learning DeepLearning.AI and AWS
 - 📫 Ask me about my capstone project RecipEz!
 
 I'm open to collaboration and always eager to connect with fellow enthusiasts and professionals in the field. If you're working on an exciting project or have ideas for potential collaborations, feel free to reach out. Let's embark on this journey of innovation together!
