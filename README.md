@@ -9,7 +9,7 @@ I am a Flatiron certified Full stack software engineer, driven by an appreciatio
 
 - 🔭 I'm currently learning AWS through Amazon's AWS training.
 - 🌱 Proud graduate of Flatiron's bootcamp!
-- ⚡Currently working on my Phase 2 project Random Riddler
+- ⚡Currently working on Random Riddler
 - ✍️ I write blogs on [Medium](https://medium.com/@adwilson12901)
 
 ## Tech Stack
