@@ -9,7 +9,7 @@ I am a Flatiron certified Full stack software engineer, driven by an appreciatio
 
 - 🔭 I'm currently learning TypeScript.
 - 🌱 Proud graduate of Flatiron's bootcamp!
-- ⚡Currently working on Random Riddler
+- ⚡Currently working on RecipEz
 - ✍️ I write blogs on [Medium](https://medium.com/@adwilson12901)
 
 ## Tech Stack
