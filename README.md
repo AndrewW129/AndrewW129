@@ -7,7 +7,7 @@ I am a Flatiron certified Full stack software engineer, driven by an appreciatio
 
 ## About Me 
 
-- 🔭 I'm currently learning TypeScript.
+- 🔭 I'm currently learning Algorithms and TypeScript.
 - 🌱 Proud graduate of Flatiron's bootcamp!
 - ⚡Currently working on Data Structures and Algorithms.
 - ✍️ I write blogs on [Medium](https://medium.com/@adwilson12901)
