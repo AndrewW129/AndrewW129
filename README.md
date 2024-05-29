@@ -1,7 +1,7 @@
 
 # Hello, I'm Andrew! 👋
 
-I am a Flatiron certified Full stack software engineer, driven by an appreciation for crafting digital experiences that leave a lasting impression. My journey involves diving into the technical world of computer science, learning new technologies, and sharing my ideas with the community.
+I am a Flatiron certified Full Stack Software Engineer, driven by an appreciation for crafting digital experiences that leave a lasting impression. My journey involves diving into the technical world of computer science, learning new technologies, and sharing my ideas with the community.
 
 ![AndrewW129's Stats](https://github-readme-stats.vercel.app/api?username=AndrewW129&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
